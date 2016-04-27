@@ -1,0 +1,92 @@
+1 // version number
+0 0 400 // eye
+0 0 0 // at
+0 1 0 // up
+1 // distance to near plane
+2000 // distance to far plane
+45	// field of view
+700 // screen_x
+500 // screen_y
+
+3 // number of point lights
+-200 20 200 // light position
+100 60 -120 // light position
+0 400 -900 // light position
+
+11 // number of spheres.
+0 10 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+0 0 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+10 20 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+20 30 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+30 40 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+-10 20 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+-20 30 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+-30 40 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+0 -10 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+0 -20 20 // origin
+10 // radius
+.12 .02 .14 // Ambient red, green, blue
+.16 .1 .97 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+// Blue ground
+0 -5050 0 // origin
+5000 // radius
+.04 .02 .12 // Ambient red, green, blue
+.2 .1 .6 // Diffuse red, green, blue
+.5 .5 .5 70 // Specular r,g,b and exponent.
+
+// Green sphere in background
+-20 10 -120 // origin
+90 // radius
+.04 .14 .04 // Ambient red, green, blue
+.92 .97 .92 // Diffuse red, green, blue
+.5 .5 .5 50 // Specular r,g,b and exponent.
+
+
+
